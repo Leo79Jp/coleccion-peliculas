@@ -1,0 +1,15 @@
+{
+  "name": "Buscador de Películas",
+  "short_name": "Películas",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#dc3545",
+  "icons": [
+    {
+      "src": "img/03_Cine_Peliculas.ico",
+      "sizes": "192x192 512x512",
+      "type": "image/x-icon"
+    }
+  ]
+}
